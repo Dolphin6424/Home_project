@@ -4,9 +4,10 @@ body {
 }
 
 .container {
-    max-width: 1057px;
-    padding: 0px 15px;
+    max-width: 1000px;
+    padding: 0 2px;
     margin: 0 auto;
+    border: 2px solid red;
 }
 
 header {
