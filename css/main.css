@@ -1,7 +1,12 @@
 body {
     padding: 0;
-    margin: 0;
-    
+    margin: 0;   
+}
+
+.container {
+    max-width: 1057px;
+    padding: 0px 15px;
+    margin: 0 auto;
 }
 
 header {
